@@ -33,7 +33,6 @@ public class WebTableHandle {
 //		System.out.println(getScoreCardList("Yasir Ali"));
 		
 		//https://selectorshub.com/xpath-practice-page/
-		System.out.println("Github - Modify change for github page - MODIFIED");
 	}
 
 	public static String getWicketTakerName(String name) {
